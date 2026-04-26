@@ -1,0 +1,15 @@
+C:\Users\vikar\Desktop\курсс\book\bin\Debug\net9.0\book.exe
+C:\Users\vikar\Desktop\курсс\book\bin\Debug\net9.0\book.deps.json
+C:\Users\vikar\Desktop\курсс\book\bin\Debug\net9.0\book.runtimeconfig.json
+C:\Users\vikar\Desktop\курсс\book\bin\Debug\net9.0\book.dll
+C:\Users\vikar\Desktop\курсс\book\bin\Debug\net9.0\book.pdb
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.AssemblyInfoInputs.cache
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.AssemblyInfo.cs
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.csproj.CoreCompileInputs.cache
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.dll
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\refint\book.dll
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.pdb
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.genruntimeconfig.cache
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\ref\book.dll
+C:\Users\vikar\Desktop\курсс\book\obj\Debug\net9.0\book.csproj.AssemblyReference.cache
