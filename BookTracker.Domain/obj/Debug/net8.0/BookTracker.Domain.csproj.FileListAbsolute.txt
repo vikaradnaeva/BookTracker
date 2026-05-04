@@ -1,0 +1,15 @@
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\bin\Debug\net8.0\BookTracker.Domain.deps.json
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\bin\Debug\net8.0\BookTracker.Domain.dll
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\bin\Debug\net8.0\BookTracker.Domain.pdb
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\bin\Debug\net8.0\BookTracker.ValueObjects.dll
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\bin\Debug\net8.0\BookTracker.ValueObjects.pdb
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.csproj.AssemblyReference.cache
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.AssemblyInfo.cs
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTrac.6F9895CE.Up2Date
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.dll
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\refint\BookTracker.Domain.dll
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\BookTracker.Domain.pdb
+C:\Users\vikar\Desktop\курсовая\BookTrackerFull\BookTracker.Domain\obj\Debug\net8.0\ref\BookTracker.Domain.dll
