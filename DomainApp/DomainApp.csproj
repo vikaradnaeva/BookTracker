@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookTracker.Domain\BookTracker.Domain.csproj" />
+    <ProjectReference Include="..\BookTracker.ValueObjects\BookTracker.ValueObjects.csproj" />
+    <ProjectReference Include="..\BookTracker.Domain.Repositories.Abstractions\BookTracker.Domain.Repositories.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

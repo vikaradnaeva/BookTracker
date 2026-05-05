@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BookTracker.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BookTracker.ValueObjects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookTracker.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookTracker.Domain.dll": {}
+        }
+      },
+      "BookTracker.ValueObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BookTracker.ValueObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookTracker.ValueObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookTracker.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BookTracker.Domain/BookTracker.Domain.csproj",
+      "msbuildProject": "../BookTracker.Domain/BookTracker.Domain.csproj"
+    },
+    "BookTracker.ValueObjects/1.0.0": {
+      "type": "project",
+      "path": "../BookTracker.ValueObjects/BookTracker.ValueObjects.csproj",
+      "msbuildProject": "../BookTracker.ValueObjects/BookTracker.ValueObjects.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BookTracker.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vikar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vikar\\Desktop\\курсовая\\BookTrackerFull\\BookTracker.Domain.Repositories.Abstractions\\BookTracker.Domain.Repositories.Abstractions.csproj",
+      "projectName": "BookTracker.Domain.Repositories.Abstractions",
+      "projectPath": "C:\\Users\\vikar\\Desktop\\курсовая\\BookTrackerFull\\BookTracker.Domain.Repositories.Abstractions\\BookTracker.Domain.Repositories.Abstractions.csproj",
+      "packagesPath": "C:\\Users\\vikar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vikar\\Desktop\\курсовая\\BookTrackerFull\\BookTracker.Domain.Repositories.Abstractions\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vikar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\vikar\\Desktop\\курсовая\\BookTrackerFull\\BookTracker.Domain\\BookTracker.Domain.csproj": {
+              "projectPath": "C:\\Users\\vikar\\Desktop\\курсовая\\BookTrackerFull\\BookTracker.Domain\\BookTracker.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
