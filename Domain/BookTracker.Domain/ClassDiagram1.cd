@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BookTracker.Domain.Entities.Book" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAEEIgAIAAAAAAACCAkAAAASAAAAAAAA=</HashCode>
+      <FileName>Entities\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Entities.BookRating" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAACCAAAACAAAAgAgAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\BookRating.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Entities.Genre" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Entities\Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Entities.Moderator" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAAACAAAAAASAAUAAAABACCAAAAAAAAAAAACA=</HashCode>
+      <FileName>Entities\Moderator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Entities.Reader" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAQAAAAAAAAAAxAAAAACQACAAAAAQAAAAAIAABA=</HashCode>
+      <FileName>Entities\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Entities.ReadingProgress" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAEAAAABAAhAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\ReadingProgress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Entities.Tag" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Entities\Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookTracker.Domain.Base.Entity&lt;TId&gt;" Collapsed="true">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

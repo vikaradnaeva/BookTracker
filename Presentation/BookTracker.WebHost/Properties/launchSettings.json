@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BookTracker.WebHost": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63088;http://localhost:63089"
+    }
+  }
+}
